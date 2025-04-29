@@ -68,3 +68,8 @@ git clone https://github.com/your-username/lab-report-analyzer.git
 cd lab-report-analyzer
 pip install -r requirements.txt
 uvicorn main:app --reload
+
+
+
+![image](https://github.com/user-attachments/assets/4ab80189-7712-4266-98c3-01d5c8bb54c9)
+
